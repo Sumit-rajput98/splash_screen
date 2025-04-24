@@ -25,3 +25,5 @@ const tOnBoardingPage4Color = Color(0xff7bed9f);
 
 const tOnBoardingPage5Color = Color(0xff70a1ff);
 
+const color = Colors.white;
+
